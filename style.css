@@ -472,7 +472,7 @@ body main .sixth-container .inner-sixth ul li {
     padding-left: 80px;
   }
 }
-@media (max-width: 390px) {
+@media (max-width: 560px) {
   body main .first-container .text-container span {
     width: 100%;
     font-size: 30px;
